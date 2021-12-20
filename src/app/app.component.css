@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    margin: 0;
+}
+
+h1 {
+    background: blue;
+    margin: 0;
+    padding: 1rem 2rem;
+    border-radius: 4px;
+    color: aliceblue;
+}
+
+h1:hover {
+    background: rgba(0, 0, 255, 0.781);
+    color: rgb(252, 255, 93);
+}
